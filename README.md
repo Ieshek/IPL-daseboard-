@@ -5,10 +5,10 @@ The objective of this project is to design an interactive Power BI dashboard tha
 ## project Discripction
 This Power BI dashboard provides a comprehensive visual analysis of the Indian Premier League (IPL) data from 2008 to 2022. The dashboard offers insights into team and player performances for each selected season, focusing on batting, bowling, match outcomes, and venue-based statistics.
 
-Key Features
+##Key Features
 Season Selector: Choose any season (e.g., 2013) to filter all visuals.
 
-Title Winner & Player Awards:
+##Title Winner & Player Awards:
 
 🏆 Title Winner: Mumbai Indians (for selected season)
 
@@ -16,35 +16,35 @@ Title Winner & Player Awards:
 
 💜 Purple Cap: DJ Bravo – 32 Wickets
 
-Batting Stats:
+##Batting Stats:
 
 Select a batsman to view: total runs, 6s, 4s, strike rate
 
 Example: AJ Finch – 456 Runs, 16 Sixes, 54 Fours, SR: 132.56
 
-Bowling Stats:
+##Bowling Stats:
 
 Select a bowler to view: wickets, economy, average, bowling SR
 
 Example: B Kumar – 13 Wickets, Econ: 6.20, Avg: 28.54, SR: 27.62
 
-Match Outcomes:
+##Match Outcomes:
 
 Breakdown of match wins by result type: Runs, Wickets, Super Over
 
 Toss decisions: Fielding vs Batting win ratio
 
-Venue Analysis:
+##Venue Analysis:
 
 Match win types by different stadiums (e.g., Eden Gardens, Wankhede)
 
-Team Performance:
+##Team Performance:
 
 Total wins by team for the selected season
 
 Example: Mumbai Indians – 13 Wins
 
-🛠️ Tools Used
+#🛠️ Tools Used
 Power BI
 
 DAX & Power Query
